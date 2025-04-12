@@ -1,0 +1,16 @@
+{
+  "nav.aboutUs": "About Us",
+  "nav.products": "Products",
+  "nav.solutions": "Solutions",
+  "nav.features": "Features",
+  "nav.caseStudies": "Case Studies",
+  "nav.resources": "Resources",
+  "nav.contactUs": "Contact Us",
+  "product.aiSeoOptimizer": "AI SEO Optimizer",
+  "product.multilingualContentGenerator": "Multilingual Content Generator",
+  "product.startupLaunchpad": "Startup Launchpad",
+  "product.analyticsInsightsDashboard": "Analytics & Insights Dashboard",
+  "solution.startupBoost": "StartupBoost",
+  "solution.ecomEase": "EcomEase",
+  "solution.serviceScale": "ServiceScale"
+} 
