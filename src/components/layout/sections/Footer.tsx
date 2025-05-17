@@ -58,7 +58,7 @@ export default function Footer() {
             </div>
   
             {/* Connect Section */}
-            <div>
+            {/* <div>
               <h3 className="text-lg font-medium text-white mb-4">Connect</h3>
               <div className="flex space-x-4">
                 <a href="#" className="text-gray-400 hover:text-white transition duration-300">
@@ -74,10 +74,10 @@ export default function Footer() {
                   <i className="fab fa-instagram" />
                 </a>
               </div>
-            </div>
+            </div> */}
   
             {/* Newsletter Section */}
-            <div className="col-span-1 md:col-span-5">
+            {/* <div className="col-span-1 md:col-span-5">
               <h3 className="text-lg font-medium text-white mb-4">Subscribe to our newsletter</h3>
               <div className="flex">
                 <input
@@ -89,7 +89,7 @@ export default function Footer() {
                   <i className="fas fa-paper-plane" />
                 </button>
               </div>
-            </div>
+            </div> */}
           </div>
   
           <div className="mt-12 text-center">

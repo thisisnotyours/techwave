@@ -11,7 +11,7 @@ export default function ContactUs() {
 
         <div className="bg-white rounded-xl shadow-lg overflow-hidden max-w-3xl mx-auto">
           <div className="md:flex">
-            <div className="md:flex-shrink-0 bg-blue-600 md:w-1/3 p-8 text-white flex flex-col justify-center">
+            <div className="md:flex-shrink-0 bg-blue-600 md:w-1/3 p-5 text-white flex flex-col justify-center">
               <h3 className="text-xl font-bold mb-4">Contact Information</h3>
               <div className="mb-6">
                 <div className="flex items-center mb-2">

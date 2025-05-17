@@ -32,14 +32,14 @@ export default function AboutUs() {
               <div className="mx-auto h-32 w-32 rounded-full bg-gray-200 flex items-center justify-center shadow-lg mb-4 overflow-hidden">
                 <i className="fas fa-user-tie text-5xl text-blue-600" />
               </div>
-              <h4 className="font-bold text-lg">Jane Kim</h4>
+              <h4 className="font-bold text-lg">Sue Kim</h4>
               <p className="text-gray-500">CEO</p>
             </div>
             <div className="text-center">
               <div className="mx-auto h-32 w-32 rounded-full bg-gray-200 flex items-center justify-center shadow-lg mb-4 overflow-hidden">
                 <i className="fas fa-laptop-code text-5xl text-blue-600" />
               </div>
-              <h4 className="font-bold text-lg">Alex Chen</h4>
+              <h4 className="font-bold text-lg">Atul Kamble</h4>
               <p className="text-gray-500">CTO</p>
             </div>
           </div>
